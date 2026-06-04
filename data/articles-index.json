@@ -1,0 +1,852 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "slug": "the-ultimate-guide-to-beginner-drawer-divider-diy",
+      "title": "The Ultimate Guide to Beginner Drawer Divider DIY",
+      "category": "beginner-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.901877",
+      "image": {
+        "id": "c8efa33fbf3c2d1cb174f916193473f886a8025aaa1491d93db23d53fd8b89ee",
+        "url": "https://picsum.photos/957/571?random=518",
+        "alt": "Featured image for: The Ultimate Guide to Beginner Drawer Divider DIY",
+        "width": 957,
+        "height": 571
+      }
+    },
+    {
+      "id": 2,
+      "slug": "beginner-drawer-divider-diy-everything-you-need-to-know",
+      "title": "Beginner Drawer Divider DIY: Everything You Need to Know",
+      "category": "beginner-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.902352",
+      "image": {
+        "id": "3442f67200c5474a01a8c97bfae0f65ab252c875942e36bce10e79538b8e60af",
+        "url": "https://picsum.photos/882/494?random=134",
+        "alt": "Featured image for: Beginner Drawer Divider DIY: Everything You Need to Know",
+        "width": 882,
+        "height": 494
+      }
+    },
+    {
+      "id": 3,
+      "slug": "understanding-beginner-drawer-divider-diy",
+      "title": "Understanding Beginner Drawer Divider DIY",
+      "category": "beginner-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.902417",
+      "image": {
+        "id": "b8ba2933b17a92096e24dd20b68fd9d8f6ac806b61797bf6013273e14ee75659",
+        "url": "https://picsum.photos/852/564?random=3",
+        "alt": "Featured image for: Understanding Beginner Drawer Divider DIY",
+        "width": 852,
+        "height": 564
+      }
+    },
+    {
+      "id": 4,
+      "slug": "beginner-drawer-divider-diy-tips-and-best-practices",
+      "title": "Beginner Drawer Divider DIY Tips and Best Practices",
+      "category": "beginner-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.902472",
+      "image": {
+        "id": "95fa415c647932f1357c59fd5605a7cbaba33c5a440fadcbbada09132e0be4e3",
+        "url": "https://picsum.photos/848/590?random=776",
+        "alt": "Featured image for: Beginner Drawer Divider DIY Tips and Best Practices",
+        "width": 848,
+        "height": 590
+      }
+    },
+    {
+      "id": 5,
+      "slug": "the-history-of-beginner-drawer-divider-diy",
+      "title": "The History of Beginner Drawer Divider DIY",
+      "category": "beginner-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.902522",
+      "image": {
+        "id": "f2960dc83f40a3619e62ce3caff313aa1ad43485d98063928ba20b1295088baa",
+        "url": "https://picsum.photos/1148/478?random=570",
+        "alt": "Featured image for: The History of Beginner Drawer Divider DIY",
+        "width": 1148,
+        "height": 478
+      }
+    },
+    {
+      "id": 6,
+      "slug": "beginner-drawer-divider-diy-in-2026-current-trends",
+      "title": "Beginner Drawer Divider DIY in 2026: Current Trends",
+      "category": "beginner-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.902558",
+      "image": {
+        "id": "c8efa33fbf3c2d1cb174f916193473f886a8025aaa1491d93db23d53fd8b89ee",
+        "url": "https://picsum.photos/957/571?random=518",
+        "alt": "Featured image for: Beginner Drawer Divider DIY in 2026: Current Trends",
+        "width": 957,
+        "height": 571
+      }
+    },
+    {
+      "id": 7,
+      "slug": "future-of-beginner-drawer-divider-diy",
+      "title": "Future of Beginner Drawer Divider DIY",
+      "category": "beginner-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.902593",
+      "image": {
+        "id": "95fa415c647932f1357c59fd5605a7cbaba33c5a440fadcbbada09132e0be4e3",
+        "url": "https://picsum.photos/848/590?random=776",
+        "alt": "Featured image for: Future of Beginner Drawer Divider DIY",
+        "width": 848,
+        "height": 590
+      }
+    },
+    {
+      "id": 8,
+      "slug": "common-mistakes-in-beginner-drawer-divider-diy",
+      "title": "Common Mistakes in Beginner Drawer Divider DIY",
+      "category": "beginner-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.902624",
+      "image": {
+        "id": "95fa415c647932f1357c59fd5605a7cbaba33c5a440fadcbbada09132e0be4e3",
+        "url": "https://picsum.photos/848/590?random=776",
+        "alt": "Featured image for: Common Mistakes in Beginner Drawer Divider DIY",
+        "width": 848,
+        "height": 590
+      }
+    },
+    {
+      "id": 9,
+      "slug": "beginner-drawer-divider-diy-for-beginners",
+      "title": "Beginner Drawer Divider DIY for Beginners",
+      "category": "beginner-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.902677",
+      "image": {
+        "id": "f2960dc83f40a3619e62ce3caff313aa1ad43485d98063928ba20b1295088baa",
+        "url": "https://picsum.photos/1148/478?random=570",
+        "alt": "Featured image for: Beginner Drawer Divider DIY for Beginners",
+        "width": 1148,
+        "height": 478
+      }
+    },
+    {
+      "id": 10,
+      "slug": "advanced-beginner-drawer-divider-diy-techniques",
+      "title": "Advanced Beginner Drawer Divider DIY Techniques",
+      "category": "beginner-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.902720",
+      "image": {
+        "id": "f2960dc83f40a3619e62ce3caff313aa1ad43485d98063928ba20b1295088baa",
+        "url": "https://picsum.photos/1148/478?random=570",
+        "alt": "Featured image for: Advanced Beginner Drawer Divider DIY Techniques",
+        "width": 1148,
+        "height": 478
+      }
+    },
+    {
+      "id": 19,
+      "slug": "the-ultimate-guide-to-advanced-drawer-divider-diy",
+      "title": "The Ultimate Guide to Advanced Drawer Divider DIY",
+      "category": "advanced-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.903028",
+      "image": {
+        "id": "c8efa33fbf3c2d1cb174f916193473f886a8025aaa1491d93db23d53fd8b89ee",
+        "url": "https://picsum.photos/957/571?random=518",
+        "alt": "Featured image for: The Ultimate Guide to Advanced Drawer Divider DIY",
+        "width": 957,
+        "height": 571
+      }
+    },
+    {
+      "id": 20,
+      "slug": "advanced-drawer-divider-diy-everything-you-need-to-know",
+      "title": "Advanced Drawer Divider DIY: Everything You Need to Know",
+      "category": "advanced-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.903058",
+      "image": {
+        "id": "b8ba2933b17a92096e24dd20b68fd9d8f6ac806b61797bf6013273e14ee75659",
+        "url": "https://picsum.photos/852/564?random=3",
+        "alt": "Featured image for: Advanced Drawer Divider DIY: Everything You Need to Know",
+        "width": 852,
+        "height": 564
+      }
+    },
+    {
+      "id": 21,
+      "slug": "understanding-advanced-drawer-divider-diy",
+      "title": "Understanding Advanced Drawer Divider DIY",
+      "category": "advanced-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.903091",
+      "image": {
+        "id": "b8ba2933b17a92096e24dd20b68fd9d8f6ac806b61797bf6013273e14ee75659",
+        "url": "https://picsum.photos/852/564?random=3",
+        "alt": "Featured image for: Understanding Advanced Drawer Divider DIY",
+        "width": 852,
+        "height": 564
+      }
+    },
+    {
+      "id": 22,
+      "slug": "advanced-drawer-divider-diy-tips-and-best-practices",
+      "title": "Advanced Drawer Divider DIY Tips and Best Practices",
+      "category": "advanced-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.903121",
+      "image": {
+        "id": "95fa415c647932f1357c59fd5605a7cbaba33c5a440fadcbbada09132e0be4e3",
+        "url": "https://picsum.photos/848/590?random=776",
+        "alt": "Featured image for: Advanced Drawer Divider DIY Tips and Best Practices",
+        "width": 848,
+        "height": 590
+      }
+    },
+    {
+      "id": 23,
+      "slug": "the-history-of-advanced-drawer-divider-diy",
+      "title": "The History of Advanced Drawer Divider DIY",
+      "category": "advanced-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.903154",
+      "image": {
+        "id": "c8efa33fbf3c2d1cb174f916193473f886a8025aaa1491d93db23d53fd8b89ee",
+        "url": "https://picsum.photos/957/571?random=518",
+        "alt": "Featured image for: The History of Advanced Drawer Divider DIY",
+        "width": 957,
+        "height": 571
+      }
+    },
+    {
+      "id": 24,
+      "slug": "advanced-drawer-divider-diy-in-2026-current-trends",
+      "title": "Advanced Drawer Divider DIY in 2026: Current Trends",
+      "category": "advanced-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.903198",
+      "image": {
+        "id": "c8efa33fbf3c2d1cb174f916193473f886a8025aaa1491d93db23d53fd8b89ee",
+        "url": "https://picsum.photos/957/571?random=518",
+        "alt": "Featured image for: Advanced Drawer Divider DIY in 2026: Current Trends",
+        "width": 957,
+        "height": 571
+      }
+    },
+    {
+      "id": 25,
+      "slug": "future-of-advanced-drawer-divider-diy",
+      "title": "Future of Advanced Drawer Divider DIY",
+      "category": "advanced-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.903235",
+      "image": {
+        "id": "95fa415c647932f1357c59fd5605a7cbaba33c5a440fadcbbada09132e0be4e3",
+        "url": "https://picsum.photos/848/590?random=776",
+        "alt": "Featured image for: Future of Advanced Drawer Divider DIY",
+        "width": 848,
+        "height": 590
+      }
+    },
+    {
+      "id": 26,
+      "slug": "common-mistakes-in-advanced-drawer-divider-diy",
+      "title": "Common Mistakes in Advanced Drawer Divider DIY",
+      "category": "advanced-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.903268",
+      "image": {
+        "id": "c8efa33fbf3c2d1cb174f916193473f886a8025aaa1491d93db23d53fd8b89ee",
+        "url": "https://picsum.photos/957/571?random=518",
+        "alt": "Featured image for: Common Mistakes in Advanced Drawer Divider DIY",
+        "width": 957,
+        "height": 571
+      }
+    },
+    {
+      "id": 27,
+      "slug": "advanced-drawer-divider-diy-for-beginners",
+      "title": "Advanced Drawer Divider DIY for Beginners",
+      "category": "advanced-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.903298",
+      "image": {
+        "id": "3442f67200c5474a01a8c97bfae0f65ab252c875942e36bce10e79538b8e60af",
+        "url": "https://picsum.photos/882/494?random=134",
+        "alt": "Featured image for: Advanced Drawer Divider DIY for Beginners",
+        "width": 882,
+        "height": 494
+      }
+    },
+    {
+      "id": 28,
+      "slug": "advanced-advanced-drawer-divider-diy-techniques",
+      "title": "Advanced Advanced Drawer Divider DIY Techniques",
+      "category": "advanced-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.903329",
+      "image": {
+        "id": "95fa415c647932f1357c59fd5605a7cbaba33c5a440fadcbbada09132e0be4e3",
+        "url": "https://picsum.photos/848/590?random=776",
+        "alt": "Featured image for: Advanced Advanced Drawer Divider DIY Techniques",
+        "width": 848,
+        "height": 590
+      }
+    },
+    {
+      "id": 37,
+      "slug": "the-ultimate-guide-to-drawer-divider-diy-tips",
+      "title": "The Ultimate Guide to Drawer Divider DIY Tips",
+      "category": "tips-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.903599",
+      "image": {
+        "id": "95fa415c647932f1357c59fd5605a7cbaba33c5a440fadcbbada09132e0be4e3",
+        "url": "https://picsum.photos/848/590?random=776",
+        "alt": "Featured image for: The Ultimate Guide to Drawer Divider DIY Tips",
+        "width": 848,
+        "height": 590
+      }
+    },
+    {
+      "id": 38,
+      "slug": "drawer-divider-diy-tips-everything-you-need-to-know",
+      "title": "Drawer Divider DIY Tips: Everything You Need to Know",
+      "category": "tips-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.903629",
+      "image": {
+        "id": "c8efa33fbf3c2d1cb174f916193473f886a8025aaa1491d93db23d53fd8b89ee",
+        "url": "https://picsum.photos/957/571?random=518",
+        "alt": "Featured image for: Drawer Divider DIY Tips: Everything You Need to Know",
+        "width": 957,
+        "height": 571
+      }
+    },
+    {
+      "id": 39,
+      "slug": "understanding-drawer-divider-diy-tips",
+      "title": "Understanding Drawer Divider DIY Tips",
+      "category": "tips-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.903661",
+      "image": {
+        "id": "b8ba2933b17a92096e24dd20b68fd9d8f6ac806b61797bf6013273e14ee75659",
+        "url": "https://picsum.photos/852/564?random=3",
+        "alt": "Featured image for: Understanding Drawer Divider DIY Tips",
+        "width": 852,
+        "height": 564
+      }
+    },
+    {
+      "id": 40,
+      "slug": "drawer-divider-diy-tips-tips-and-best-practices",
+      "title": "Drawer Divider DIY Tips Tips and Best Practices",
+      "category": "tips-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.903691",
+      "image": {
+        "id": "b8ba2933b17a92096e24dd20b68fd9d8f6ac806b61797bf6013273e14ee75659",
+        "url": "https://picsum.photos/852/564?random=3",
+        "alt": "Featured image for: Drawer Divider DIY Tips Tips and Best Practices",
+        "width": 852,
+        "height": 564
+      }
+    },
+    {
+      "id": 41,
+      "slug": "the-history-of-drawer-divider-diy-tips",
+      "title": "The History of Drawer Divider DIY Tips",
+      "category": "tips-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.903723",
+      "image": {
+        "id": "95fa415c647932f1357c59fd5605a7cbaba33c5a440fadcbbada09132e0be4e3",
+        "url": "https://picsum.photos/848/590?random=776",
+        "alt": "Featured image for: The History of Drawer Divider DIY Tips",
+        "width": 848,
+        "height": 590
+      }
+    },
+    {
+      "id": 42,
+      "slug": "drawer-divider-diy-tips-in-2026-current-trends",
+      "title": "Drawer Divider DIY Tips in 2026: Current Trends",
+      "category": "tips-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.903754",
+      "image": {
+        "id": "c8efa33fbf3c2d1cb174f916193473f886a8025aaa1491d93db23d53fd8b89ee",
+        "url": "https://picsum.photos/957/571?random=518",
+        "alt": "Featured image for: Drawer Divider DIY Tips in 2026: Current Trends",
+        "width": 957,
+        "height": 571
+      }
+    },
+    {
+      "id": 43,
+      "slug": "future-of-drawer-divider-diy-tips",
+      "title": "Future of Drawer Divider DIY Tips",
+      "category": "tips-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.903784",
+      "image": {
+        "id": "f2960dc83f40a3619e62ce3caff313aa1ad43485d98063928ba20b1295088baa",
+        "url": "https://picsum.photos/1148/478?random=570",
+        "alt": "Featured image for: Future of Drawer Divider DIY Tips",
+        "width": 1148,
+        "height": 478
+      }
+    },
+    {
+      "id": 44,
+      "slug": "common-mistakes-in-drawer-divider-diy-tips",
+      "title": "Common Mistakes in Drawer Divider DIY Tips",
+      "category": "tips-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.903819",
+      "image": {
+        "id": "f2960dc83f40a3619e62ce3caff313aa1ad43485d98063928ba20b1295088baa",
+        "url": "https://picsum.photos/1148/478?random=570",
+        "alt": "Featured image for: Common Mistakes in Drawer Divider DIY Tips",
+        "width": 1148,
+        "height": 478
+      }
+    },
+    {
+      "id": 45,
+      "slug": "drawer-divider-diy-tips-for-beginners",
+      "title": "Drawer Divider DIY Tips for Beginners",
+      "category": "tips-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.903850",
+      "image": {
+        "id": "f2960dc83f40a3619e62ce3caff313aa1ad43485d98063928ba20b1295088baa",
+        "url": "https://picsum.photos/1148/478?random=570",
+        "alt": "Featured image for: Drawer Divider DIY Tips for Beginners",
+        "width": 1148,
+        "height": 478
+      }
+    },
+    {
+      "id": 46,
+      "slug": "advanced-drawer-divider-diy-tips-techniques",
+      "title": "Advanced Drawer Divider DIY Tips Techniques",
+      "category": "tips-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.903878",
+      "image": {
+        "id": "b8ba2933b17a92096e24dd20b68fd9d8f6ac806b61797bf6013273e14ee75659",
+        "url": "https://picsum.photos/852/564?random=3",
+        "alt": "Featured image for: Advanced Drawer Divider DIY Tips Techniques",
+        "width": 852,
+        "height": 564
+      }
+    },
+    {
+      "id": 55,
+      "slug": "the-ultimate-guide-to-drawer-divider-diy-history",
+      "title": "The Ultimate Guide to Drawer Divider DIY History",
+      "category": "history-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.904138",
+      "image": {
+        "id": "f2960dc83f40a3619e62ce3caff313aa1ad43485d98063928ba20b1295088baa",
+        "url": "https://picsum.photos/1148/478?random=570",
+        "alt": "Featured image for: The Ultimate Guide to Drawer Divider DIY History",
+        "width": 1148,
+        "height": 478
+      }
+    },
+    {
+      "id": 56,
+      "slug": "drawer-divider-diy-history-everything-you-need-to-know",
+      "title": "Drawer Divider DIY History: Everything You Need to Know",
+      "category": "history-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.904168",
+      "image": {
+        "id": "3442f67200c5474a01a8c97bfae0f65ab252c875942e36bce10e79538b8e60af",
+        "url": "https://picsum.photos/882/494?random=134",
+        "alt": "Featured image for: Drawer Divider DIY History: Everything You Need to Know",
+        "width": 882,
+        "height": 494
+      }
+    },
+    {
+      "id": 57,
+      "slug": "understanding-drawer-divider-diy-history",
+      "title": "Understanding Drawer Divider DIY History",
+      "category": "history-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.904199",
+      "image": {
+        "id": "c8efa33fbf3c2d1cb174f916193473f886a8025aaa1491d93db23d53fd8b89ee",
+        "url": "https://picsum.photos/957/571?random=518",
+        "alt": "Featured image for: Understanding Drawer Divider DIY History",
+        "width": 957,
+        "height": 571
+      }
+    },
+    {
+      "id": 58,
+      "slug": "drawer-divider-diy-history-tips-and-best-practices",
+      "title": "Drawer Divider DIY History Tips and Best Practices",
+      "category": "history-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.904229",
+      "image": {
+        "id": "b8ba2933b17a92096e24dd20b68fd9d8f6ac806b61797bf6013273e14ee75659",
+        "url": "https://picsum.photos/852/564?random=3",
+        "alt": "Featured image for: Drawer Divider DIY History Tips and Best Practices",
+        "width": 852,
+        "height": 564
+      }
+    },
+    {
+      "id": 59,
+      "slug": "the-history-of-drawer-divider-diy-history",
+      "title": "The History of Drawer Divider DIY History",
+      "category": "history-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.904259",
+      "image": {
+        "id": "b8ba2933b17a92096e24dd20b68fd9d8f6ac806b61797bf6013273e14ee75659",
+        "url": "https://picsum.photos/852/564?random=3",
+        "alt": "Featured image for: The History of Drawer Divider DIY History",
+        "width": 852,
+        "height": 564
+      }
+    },
+    {
+      "id": 60,
+      "slug": "drawer-divider-diy-history-in-2026-current-trends",
+      "title": "Drawer Divider DIY History in 2026: Current Trends",
+      "category": "history-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.904288",
+      "image": {
+        "id": "95fa415c647932f1357c59fd5605a7cbaba33c5a440fadcbbada09132e0be4e3",
+        "url": "https://picsum.photos/848/590?random=776",
+        "alt": "Featured image for: Drawer Divider DIY History in 2026: Current Trends",
+        "width": 848,
+        "height": 590
+      }
+    },
+    {
+      "id": 61,
+      "slug": "future-of-drawer-divider-diy-history",
+      "title": "Future of Drawer Divider DIY History",
+      "category": "history-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.904363",
+      "image": {
+        "id": "c8efa33fbf3c2d1cb174f916193473f886a8025aaa1491d93db23d53fd8b89ee",
+        "url": "https://picsum.photos/957/571?random=518",
+        "alt": "Featured image for: Future of Drawer Divider DIY History",
+        "width": 957,
+        "height": 571
+      }
+    },
+    {
+      "id": 62,
+      "slug": "common-mistakes-in-drawer-divider-diy-history",
+      "title": "Common Mistakes in Drawer Divider DIY History",
+      "category": "history-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.904422",
+      "image": {
+        "id": "b8ba2933b17a92096e24dd20b68fd9d8f6ac806b61797bf6013273e14ee75659",
+        "url": "https://picsum.photos/852/564?random=3",
+        "alt": "Featured image for: Common Mistakes in Drawer Divider DIY History",
+        "width": 852,
+        "height": 564
+      }
+    },
+    {
+      "id": 63,
+      "slug": "drawer-divider-diy-history-for-beginners",
+      "title": "Drawer Divider DIY History for Beginners",
+      "category": "history-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.904453",
+      "image": {
+        "id": "c8efa33fbf3c2d1cb174f916193473f886a8025aaa1491d93db23d53fd8b89ee",
+        "url": "https://picsum.photos/957/571?random=518",
+        "alt": "Featured image for: Drawer Divider DIY History for Beginners",
+        "width": 957,
+        "height": 571
+      }
+    },
+    {
+      "id": 64,
+      "slug": "advanced-drawer-divider-diy-history-techniques",
+      "title": "Advanced Drawer Divider DIY History Techniques",
+      "category": "history-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.904483",
+      "image": {
+        "id": "b8ba2933b17a92096e24dd20b68fd9d8f6ac806b61797bf6013273e14ee75659",
+        "url": "https://picsum.photos/852/564?random=3",
+        "alt": "Featured image for: Advanced Drawer Divider DIY History Techniques",
+        "width": 852,
+        "height": 564
+      }
+    },
+    {
+      "id": 73,
+      "slug": "the-ultimate-guide-to-trending-drawer-divider-diy",
+      "title": "The Ultimate Guide to Trending Drawer Divider DIY",
+      "category": "trending-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.904750",
+      "image": {
+        "id": "c8efa33fbf3c2d1cb174f916193473f886a8025aaa1491d93db23d53fd8b89ee",
+        "url": "https://picsum.photos/957/571?random=518",
+        "alt": "Featured image for: The Ultimate Guide to Trending Drawer Divider DIY",
+        "width": 957,
+        "height": 571
+      }
+    },
+    {
+      "id": 74,
+      "slug": "trending-drawer-divider-diy-everything-you-need-to-know",
+      "title": "Trending Drawer Divider DIY: Everything You Need to Know",
+      "category": "trending-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.904779",
+      "image": {
+        "id": "95fa415c647932f1357c59fd5605a7cbaba33c5a440fadcbbada09132e0be4e3",
+        "url": "https://picsum.photos/848/590?random=776",
+        "alt": "Featured image for: Trending Drawer Divider DIY: Everything You Need to Know",
+        "width": 848,
+        "height": 590
+      }
+    },
+    {
+      "id": 75,
+      "slug": "understanding-trending-drawer-divider-diy",
+      "title": "Understanding Trending Drawer Divider DIY",
+      "category": "trending-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.904810",
+      "image": {
+        "id": "b8ba2933b17a92096e24dd20b68fd9d8f6ac806b61797bf6013273e14ee75659",
+        "url": "https://picsum.photos/852/564?random=3",
+        "alt": "Featured image for: Understanding Trending Drawer Divider DIY",
+        "width": 852,
+        "height": 564
+      }
+    },
+    {
+      "id": 76,
+      "slug": "trending-drawer-divider-diy-tips-and-best-practices",
+      "title": "Trending Drawer Divider DIY Tips and Best Practices",
+      "category": "trending-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.904840",
+      "image": {
+        "id": "c8efa33fbf3c2d1cb174f916193473f886a8025aaa1491d93db23d53fd8b89ee",
+        "url": "https://picsum.photos/957/571?random=518",
+        "alt": "Featured image for: Trending Drawer Divider DIY Tips and Best Practices",
+        "width": 957,
+        "height": 571
+      }
+    },
+    {
+      "id": 77,
+      "slug": "the-history-of-trending-drawer-divider-diy",
+      "title": "The History of Trending Drawer Divider DIY",
+      "category": "trending-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.904872",
+      "image": {
+        "id": "b8ba2933b17a92096e24dd20b68fd9d8f6ac806b61797bf6013273e14ee75659",
+        "url": "https://picsum.photos/852/564?random=3",
+        "alt": "Featured image for: The History of Trending Drawer Divider DIY",
+        "width": 852,
+        "height": 564
+      }
+    },
+    {
+      "id": 78,
+      "slug": "trending-drawer-divider-diy-in-2026-current-trends",
+      "title": "Trending Drawer Divider DIY in 2026: Current Trends",
+      "category": "trending-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.904902",
+      "image": {
+        "id": "b8ba2933b17a92096e24dd20b68fd9d8f6ac806b61797bf6013273e14ee75659",
+        "url": "https://picsum.photos/852/564?random=3",
+        "alt": "Featured image for: Trending Drawer Divider DIY in 2026: Current Trends",
+        "width": 852,
+        "height": 564
+      }
+    },
+    {
+      "id": 79,
+      "slug": "future-of-trending-drawer-divider-diy",
+      "title": "Future of Trending Drawer Divider DIY",
+      "category": "trending-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.904932",
+      "image": {
+        "id": "f2960dc83f40a3619e62ce3caff313aa1ad43485d98063928ba20b1295088baa",
+        "url": "https://picsum.photos/1148/478?random=570",
+        "alt": "Featured image for: Future of Trending Drawer Divider DIY",
+        "width": 1148,
+        "height": 478
+      }
+    },
+    {
+      "id": 80,
+      "slug": "common-mistakes-in-trending-drawer-divider-diy",
+      "title": "Common Mistakes in Trending Drawer Divider DIY",
+      "category": "trending-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.904960",
+      "image": {
+        "id": "b8ba2933b17a92096e24dd20b68fd9d8f6ac806b61797bf6013273e14ee75659",
+        "url": "https://picsum.photos/852/564?random=3",
+        "alt": "Featured image for: Common Mistakes in Trending Drawer Divider DIY",
+        "width": 852,
+        "height": 564
+      }
+    },
+    {
+      "id": 81,
+      "slug": "trending-drawer-divider-diy-for-beginners",
+      "title": "Trending Drawer Divider DIY for Beginners",
+      "category": "trending-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.904991",
+      "image": {
+        "id": "95fa415c647932f1357c59fd5605a7cbaba33c5a440fadcbbada09132e0be4e3",
+        "url": "https://picsum.photos/848/590?random=776",
+        "alt": "Featured image for: Trending Drawer Divider DIY for Beginners",
+        "width": 848,
+        "height": 590
+      }
+    },
+    {
+      "id": 82,
+      "slug": "advanced-trending-drawer-divider-diy-techniques",
+      "title": "Advanced Trending Drawer Divider DIY Techniques",
+      "category": "trending-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.905021",
+      "image": {
+        "id": "3442f67200c5474a01a8c97bfae0f65ab252c875942e36bce10e79538b8e60af",
+        "url": "https://picsum.photos/882/494?random=134",
+        "alt": "Featured image for: Advanced Trending Drawer Divider DIY Techniques",
+        "width": 882,
+        "height": 494
+      }
+    },
+    {
+      "id": 91,
+      "slug": "the-ultimate-guide-to-drawer-divider-diy-tutorials",
+      "title": "The Ultimate Guide to Drawer Divider DIY Tutorials",
+      "category": "tutorials-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.905287",
+      "image": {
+        "id": "b8ba2933b17a92096e24dd20b68fd9d8f6ac806b61797bf6013273e14ee75659",
+        "url": "https://picsum.photos/852/564?random=3",
+        "alt": "Featured image for: The Ultimate Guide to Drawer Divider DIY Tutorials",
+        "width": 852,
+        "height": 564
+      }
+    },
+    {
+      "id": 92,
+      "slug": "drawer-divider-diy-tutorials-everything-you-need-to-know",
+      "title": "Drawer Divider DIY Tutorials: Everything You Need to Know",
+      "category": "tutorials-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.905316",
+      "image": {
+        "id": "f2960dc83f40a3619e62ce3caff313aa1ad43485d98063928ba20b1295088baa",
+        "url": "https://picsum.photos/1148/478?random=570",
+        "alt": "Featured image for: Drawer Divider DIY Tutorials: Everything You Need to Know",
+        "width": 1148,
+        "height": 478
+      }
+    },
+    {
+      "id": 93,
+      "slug": "understanding-drawer-divider-diy-tutorials",
+      "title": "Understanding Drawer Divider DIY Tutorials",
+      "category": "tutorials-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.905348",
+      "image": {
+        "id": "95fa415c647932f1357c59fd5605a7cbaba33c5a440fadcbbada09132e0be4e3",
+        "url": "https://picsum.photos/848/590?random=776",
+        "alt": "Featured image for: Understanding Drawer Divider DIY Tutorials",
+        "width": 848,
+        "height": 590
+      }
+    },
+    {
+      "id": 94,
+      "slug": "drawer-divider-diy-tutorials-tips-and-best-practices",
+      "title": "Drawer Divider DIY Tutorials Tips and Best Practices",
+      "category": "tutorials-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.905377",
+      "image": {
+        "id": "c8efa33fbf3c2d1cb174f916193473f886a8025aaa1491d93db23d53fd8b89ee",
+        "url": "https://picsum.photos/957/571?random=518",
+        "alt": "Featured image for: Drawer Divider DIY Tutorials Tips and Best Practices",
+        "width": 957,
+        "height": 571
+      }
+    },
+    {
+      "id": 95,
+      "slug": "the-history-of-drawer-divider-diy-tutorials",
+      "title": "The History of Drawer Divider DIY Tutorials",
+      "category": "tutorials-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.905409",
+      "image": {
+        "id": "c8efa33fbf3c2d1cb174f916193473f886a8025aaa1491d93db23d53fd8b89ee",
+        "url": "https://picsum.photos/957/571?random=518",
+        "alt": "Featured image for: The History of Drawer Divider DIY Tutorials",
+        "width": 957,
+        "height": 571
+      }
+    },
+    {
+      "id": 96,
+      "slug": "drawer-divider-diy-tutorials-in-2026-current-trends",
+      "title": "Drawer Divider DIY Tutorials in 2026: Current Trends",
+      "category": "tutorials-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.905439",
+      "image": {
+        "id": "f2960dc83f40a3619e62ce3caff313aa1ad43485d98063928ba20b1295088baa",
+        "url": "https://picsum.photos/1148/478?random=570",
+        "alt": "Featured image for: Drawer Divider DIY Tutorials in 2026: Current Trends",
+        "width": 1148,
+        "height": 478
+      }
+    },
+    {
+      "id": 97,
+      "slug": "future-of-drawer-divider-diy-tutorials",
+      "title": "Future of Drawer Divider DIY Tutorials",
+      "category": "tutorials-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.905470",
+      "image": {
+        "id": "95fa415c647932f1357c59fd5605a7cbaba33c5a440fadcbbada09132e0be4e3",
+        "url": "https://picsum.photos/848/590?random=776",
+        "alt": "Featured image for: Future of Drawer Divider DIY Tutorials",
+        "width": 848,
+        "height": 590
+      }
+    },
+    {
+      "id": 98,
+      "slug": "common-mistakes-in-drawer-divider-diy-tutorials",
+      "title": "Common Mistakes in Drawer Divider DIY Tutorials",
+      "category": "tutorials-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.905501",
+      "image": {
+        "id": "95fa415c647932f1357c59fd5605a7cbaba33c5a440fadcbbada09132e0be4e3",
+        "url": "https://picsum.photos/848/590?random=776",
+        "alt": "Featured image for: Common Mistakes in Drawer Divider DIY Tutorials",
+        "width": 848,
+        "height": 590
+      }
+    },
+    {
+      "id": 99,
+      "slug": "drawer-divider-diy-tutorials-for-beginners",
+      "title": "Drawer Divider DIY Tutorials for Beginners",
+      "category": "tutorials-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.905530",
+      "image": {
+        "id": "c8efa33fbf3c2d1cb174f916193473f886a8025aaa1491d93db23d53fd8b89ee",
+        "url": "https://picsum.photos/957/571?random=518",
+        "alt": "Featured image for: Drawer Divider DIY Tutorials for Beginners",
+        "width": 957,
+        "height": 571
+      }
+    },
+    {
+      "id": 100,
+      "slug": "advanced-drawer-divider-diy-tutorials-techniques",
+      "title": "Advanced Drawer Divider DIY Tutorials Techniques",
+      "category": "tutorials-drawer-divider-diy",
+      "created_at": "2026-06-04T11:35:12.905559",
+      "image": {
+        "id": "3442f67200c5474a01a8c97bfae0f65ab252c875942e36bce10e79538b8e60af",
+        "url": "https://picsum.photos/882/494?random=134",
+        "alt": "Featured image for: Advanced Drawer Divider DIY Tutorials Techniques",
+        "width": 882,
+        "height": 494
+      }
+    }
+  ],
+  "categories": [
+    "beginner-drawer-divider-diy",
+    "advanced-drawer-divider-diy",
+    "tips-drawer-divider-diy",
+    "history-drawer-divider-diy",
+    "trending-drawer-divider-diy",
+    "tutorials-drawer-divider-diy"
+  ]
+}

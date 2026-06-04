@@ -1,0 +1,88 @@
+# Validation Report - drawer-divider-diy
+
+Generated: 2026-06-04T11:35:12.958759
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Drawer Divider DIY
+- ✓ Article word count OK: Beginner Drawer Divider DIY: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Drawer Divider DIY
+- ✓ Article word count OK: Beginner Drawer Divider DIY Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Drawer Divider DIY
+- ✓ Article word count OK: Beginner Drawer Divider DIY in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Drawer Divider DIY
+- ✓ Article word count OK: Common Mistakes in Beginner Drawer Divider DIY
+- ✓ Article word count OK: Beginner Drawer Divider DIY for Beginners
+- ✓ Article word count OK: Advanced Beginner Drawer Divider DIY Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Drawer Divider DIY
+- ✓ Article word count OK: Advanced Drawer Divider DIY: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Drawer Divider DIY
+- ✓ Article word count OK: Advanced Drawer Divider DIY Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Drawer Divider DIY
+- ✓ Article word count OK: Advanced Drawer Divider DIY in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Drawer Divider DIY
+- ✓ Article word count OK: Common Mistakes in Advanced Drawer Divider DIY
+- ✓ Article word count OK: Advanced Drawer Divider DIY for Beginners
+- ✓ Article word count OK: Advanced Advanced Drawer Divider DIY Techniques
+- ✓ Article word count OK: The Ultimate Guide to Drawer Divider DIY Tips
+- ✓ Article word count OK: Drawer Divider DIY Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Drawer Divider DIY Tips
+- ✓ Article word count OK: Drawer Divider DIY Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Drawer Divider DIY Tips
+- ✓ Article word count OK: Drawer Divider DIY Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Drawer Divider DIY Tips
+- ✓ Article word count OK: Common Mistakes in Drawer Divider DIY Tips
+- ✓ Article word count OK: Drawer Divider DIY Tips for Beginners
+- ✓ Article word count OK: Advanced Drawer Divider DIY Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Drawer Divider DIY History
+- ✓ Article word count OK: Drawer Divider DIY History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Drawer Divider DIY History
+- ✓ Article word count OK: Drawer Divider DIY History Tips and Best Practices
+- ✓ Article word count OK: The History of Drawer Divider DIY History
+- ✓ Article word count OK: Drawer Divider DIY History in 2026: Current Trends
+- ✓ Article word count OK: Future of Drawer Divider DIY History
+- ✓ Article word count OK: Common Mistakes in Drawer Divider DIY History
+- ✓ Article word count OK: Drawer Divider DIY History for Beginners
+- ✓ Article word count OK: Advanced Drawer Divider DIY History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Drawer Divider DIY
+- ✓ Article word count OK: Trending Drawer Divider DIY: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Drawer Divider DIY
+- ✓ Article word count OK: Trending Drawer Divider DIY Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Drawer Divider DIY
+- ✓ Article word count OK: Trending Drawer Divider DIY in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Drawer Divider DIY
+- ✓ Article word count OK: Common Mistakes in Trending Drawer Divider DIY
+- ✓ Article word count OK: Trending Drawer Divider DIY for Beginners
+- ✓ Article word count OK: Advanced Trending Drawer Divider DIY Techniques
+- ✓ Article word count OK: The Ultimate Guide to Drawer Divider DIY Tutorials
+- ✓ Article word count OK: Drawer Divider DIY Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Drawer Divider DIY Tutorials
+- ✓ Article word count OK: Drawer Divider DIY Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Drawer Divider DIY Tutorials
+- ✓ Article word count OK: Drawer Divider DIY Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Drawer Divider DIY Tutorials
+- ✓ Article word count OK: Common Mistakes in Drawer Divider DIY Tutorials
+- ✓ Article word count OK: Drawer Divider DIY Tutorials for Beginners
+- ✓ Article word count OK: Advanced Drawer Divider DIY Tutorials Techniques
+- ✓ Ad configuration validated
